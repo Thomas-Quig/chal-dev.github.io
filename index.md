@@ -6,7 +6,7 @@ chal.dev is run by SIGPwny, the UIUC computer security club. Fore more info chec
 # Features
 Below are the features that chal.dev currently offers
 ## Challenge Development Rersources
-We have several challenge development resources for anyone to use.
+We have several challenge development resources for anyone to use. For more info on resources head to [/resources](/resources)
 ### Skeleton Code
 chal.dev has skeleton code for pwn, re, and web challenges including docker files, flask files, and any challenge development and hosting material you may need.
 ### Presentations and Resources
